@@ -1,2 +1,7 @@
-# aeds-2024
-Repositório focado nos estudos de Algoritmos e Estruturas de Dados em 2024
+# Algoritmos e Estruturas de Dados - 2024
+
+## [Estruturas de Dados](./estruturas)
+
+- Implementação das principais estruturas de dados em Java
+
+## [Entendendo Algoritmos](./entendendo-algoritmos-bhargava)
